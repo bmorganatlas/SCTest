@@ -1,2 +1,2 @@
 # SCTest
-sctesting
+smart commit
